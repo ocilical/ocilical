@@ -1,4 +1,5 @@
-### Hi there 👋
+### hi
+welcome to my profile! you can see some of the things i've made if you look around, my favorites are pinned
 
 <!--
 **ocilical/ocilical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
