@@ -1,5 +1,5 @@
 ### Hi!
-welcome to my profile! you can see some of the things i've made if you look around, some of my favorites are pinned
+welcome to my profile! you can see some of the things i've made if you look around, some of my favorites are pinned. I also have quite a few private repositories with school projects in them, if you're an employer and want to see them, please contact me about it.
 
 <!--
 **ocilical/ocilical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
